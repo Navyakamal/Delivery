@@ -87,7 +87,7 @@ form input:hover{
 
     #b1 {
         font-size: 18px;
-        margin-bottom: 30px;
+        margin-bottom: 60px;
     }
 
     .c3 {
@@ -99,10 +99,10 @@ form input:hover{
     }
     .modal-dialog{
         margin-left: -10px;
-        /* width: 300px; */
+        width: 300px;
     }
-    /* form input,text area{
+     form input,text area{
         width: 250px;
-    } */
+    } 
 
 }
