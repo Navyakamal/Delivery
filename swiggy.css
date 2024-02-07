@@ -98,6 +98,11 @@ form input:hover{
         height: auto;
     }
     .modal-dialog{
-        margin-left: 30px;
+        margin-left: 10px;
+        /* width: 300px; */
     }
+    /* form input,text area{
+        width: 250px;
+    } */
+
 }
