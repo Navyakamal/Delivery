@@ -98,7 +98,7 @@ form input:hover{
         height: auto;
     }
     .modal-dialog{
-        margin-left: 10px;
+        margin-left: -10px;
         /* width: 300px; */
     }
     /* form input,text area{
